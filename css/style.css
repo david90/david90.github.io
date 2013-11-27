@@ -143,6 +143,7 @@ body.viewing-page-2 .header h1, body.viewing-page-2 .nav-top span.right a {
 
 .main section.page4 {
   /*background: url(../img/appicon.png) center top no-repeat #fff;*/
+  background-color: #333;
 }
 
 body.viewing-page-4 .header h1, body.viewing-page-4 .nav-top span.right a {
