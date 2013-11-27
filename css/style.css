@@ -145,6 +145,10 @@ body.viewing-page-2 .header h1, body.viewing-page-2 .nav-top span.right a {
   background: url(../img/appicon.png) center top no-repeat #fff;
 }
 
+body.viewing-page-4 .header h1, body.viewing-page-4 .nav-top span.right a {
+  color: black;
+}
+
 /* General page settings */
 
 .main section .page_container {
