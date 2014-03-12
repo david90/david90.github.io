@@ -22,7 +22,7 @@ function minTerminal(){
 
 function maxTerminal(){
   var terminalView = $(".terminal");
-  terminalView.addClass("minimized");
+  terminalView.addClass("minified");
 }
 
 
